@@ -1,0 +1,11 @@
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\bin\Debug\BLL.dll
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\bin\Debug\BLL.pdb
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\bin\Debug\DAL.dll
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\bin\Debug\Model.dll
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\bin\Debug\DAL.pdb
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\bin\Debug\Model.pdb
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\obj\Debug\BLL.dll
+C:\Users\RedFoot\Dropbox\Projects\VidaLink\BLL\obj\Debug\BLL.pdb
